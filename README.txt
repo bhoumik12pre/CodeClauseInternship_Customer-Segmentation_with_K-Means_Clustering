@@ -24,7 +24,7 @@ Technologies Used
 Installation
 1. Clone the Repository
 
-git clone https://github.com/your-repo/customer-segmentation.git
+git clone https://github.com/bhoumik12pre/CodeClauseInternship_Customer-Segmentation_with_K-Means_Clustering.git
 cd customer-segmentation
 
 
